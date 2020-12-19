@@ -1,0 +1,37 @@
+body{
+  text-align:center;
+  background:linear-gradient(#1866cc 0%, #cc3018 100%);
+  background-repeat:no-repeat;
+}
+#yveltal{
+  border-radius:50%;
+  width:300px;
+}
+h1{
+   font-size:20px;
+}
+p{
+  font-size:15px;
+  color:#00ff0d;
+}
+.menu{
+    list-style: none;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+    font-family:cursive;
+}
+#name{
+    font-family: 'Caveat', cursive;
+}
+#spectrier{
+    width:300px;
+}
+#rayquaza{
+    width:300px;
+}
+#umbreon{
+    width:300px;
+}
